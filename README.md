@@ -8,7 +8,6 @@ Computer Science (AI & ML) student at VIT-AP University, focused on cloud comput
 
 - 🎓 3rd-year B.Tech CSE (AI & ML) student at VIT-AP University
 - ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
-- ☁️ AWS Academy Cloud Architecting certified
 - 🧠 Building projects at the intersection of AI/ML and software engineering
 - 🌱 Actively contributing to open source and preparing for internships
 - 💻 Comfortable with Java and Python for problem solving and development
@@ -17,7 +16,7 @@ Computer Science (AI & ML) student at VIT-AP University, focused on cloud comput
 
 ## Tech Stack
 
-**Languages:** Java, Python, JavaScript
+**Languages:** Java, Python, C/C++, JavaScript
 
 **AI/ML:** FAISS, Sentence Transformers, Hugging Face, FLAN-T5, LangChain-style RAG pipelines
 
@@ -51,8 +50,8 @@ An AI-powered tool that analyzes GitHub repositories and suggests code quality i
 ## GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Poshith-git&show_icons=true&theme=default" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poshith-git&layout=compact&theme=default" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Poshith-git" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poshith-git&layout=compact" height="165"/>
 </p>
 
 ---
