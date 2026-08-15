@@ -1,85 +1,66 @@
-<h1 align="center">Hi 👋 I'm Poshith</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
+# Hi, I'm Poshith 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;DSA+Learner;AI+Project+Builder;Open+Source+Explorer&center=true&width=500&height=45">
-</p>
+Computer Science (AI & ML) student at VIT-AP University, focused on cloud computing and AI/ML.
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-🎓 Computer Science student interested in **software development and AI**
-
-📚 Currently learning **Data Structures & Algorithms using Java**
-
-🧠 Exploring how **AI can be used to build useful developer tools**
-
-🚀 I enjoy building projects that combine **software engineering and AI**
-
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Currently Learning
-
-- Data Structures & Algorithms
-- Problem Solving
-- AI Applications
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+- 🎓 3rd-year B.Tech CSE (AI & ML) student at VIT-AP University
+- ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+- ☁️ AWS Academy Cloud Architecting certified
+- 🧠 Building projects at the intersection of AI/ML and software engineering
+- 🌱 Actively contributing to open source and preparing for internships
+- 💻 Comfortable with Java and Python for problem solving and development
 
 ---
 
-# 📌 Featured Projects
+## Tech Stack
 
-### 🤖 AI GitHub Code Review Assistant
+**Languages:** Java, Python, JavaScript
 
-AI-powered tool that analyzes GitHub repositories and suggests improvements to help developers improve code quality.
+**AI/ML:** FAISS, Sentence Transformers, Hugging Face, FLAN-T5, LangChain-style RAG pipelines
 
-### 📚 CurriCrafter
+**Web/Backend:** React, Express.js, Redis, Streamlit
 
-AI platform that generates structured learning roadmaps for students based on their goals.
-
-### 🧠 RAG AI System
-
-Retrieval-Augmented Generation system designed to provide more accurate and context-aware AI responses.
+**Cloud & Tools:** AWS, Docker, Git, GitHub, VS Code
 
 ---
 
-# 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Poshith-git&show_icons=true&theme=tokyonight"/>
-</p>
+### RAG Document Assistant
+A cloud-based Retrieval-Augmented Generation system for document Q&A, deployed on Hugging Face Spaces.
+- Built with Python, Streamlit, FAISS, Sentence Transformers (E5 embeddings), and FLAN-T5
+- Containerized with Docker for reproducible deployment
+- Includes evaluation results and a documented architecture
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poshith-git&layout=compact&theme=tokyonight"/>
-</p>
+### AI GitHub Code Review Assistant
+An AI-powered tool that analyzes GitHub repositories and suggests code quality improvements.
+- Automates review feedback to help developers catch issues earlier
+- Applies AI to a practical developer workflow problem
 
 ---
 
-# 🌐 Connect With Me
+## Open Source
+
+- Contributed a documentation fix to Microsoft's [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) (PR #3650), adding a missing manifest.yaml example to the Quick Start guide
+
+---
+
+## GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Poshith-git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/poshith-reddy-b5a732362">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Poshith-git&show_icons=true&theme=default" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poshith-git&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
 
-⭐ *Learning, building, and improving one project at a time.*
+## Connect With Me
+
+- GitHub: [github.com/Poshith-git](https://github.com/Poshith-git)
+- LinkedIn: [linkedin.com/in/poshith-reddy](https://linkedin.com/in/poshith-reddy)
+
+---
+*Learning, building, and improving one project at a time.*
